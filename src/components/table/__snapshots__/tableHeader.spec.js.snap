@@ -1,0 +1,28 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`it tests the table header component loads and renders the table header 1`] = `
+<thead>
+  <tr
+    className="header"
+  >
+    <th
+      className="hcell"
+      onClick={[Function]}
+    >
+      Ticker
+    </th>
+    <th
+      className="hcell"
+      onClick={[Function]}
+    >
+      Price
+    </th>
+    <th
+      className="hcell"
+      onClick={[Function]}
+    >
+      Asset Class
+    </th>
+  </tr>
+</thead>
+`;

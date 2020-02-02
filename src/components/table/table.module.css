@@ -1,0 +1,57 @@
+.container {
+    border-spacing: 0;
+    border: var(--border, 0);
+    font-size: var(--main-font, 12px);
+    border-collapse: collapse;
+    table-layout: fixed;
+    width: 100%;
+    height: 100%;
+}
+
+.header {
+    padding: 20px;
+    border: var(--border);
+}
+
+.cell {
+    border-spacing: 0;
+    border: var(--border);
+    vertical-align: top;
+    padding: 10px 20px;
+    text-align: left;
+}
+
+.hcell {
+    padding: 20px;
+    text-align:left;
+}
+
+.hcell:hover {
+    cursor: pointer;
+}
+
+.macro {
+    background-color: var(--white, #fff);
+}
+
+.equities {
+    background-color: var(--blue, blue);
+}
+
+.credit {
+    background-color: var(--green, green);
+}
+
+.positive {
+    color: var(--darkBlue, blue);
+    text-align: right;
+}
+
+.negative {
+    color: var(--red, red);
+    text-align: right;
+}
+
+.sort {
+    background-color: var(--blue);
+}

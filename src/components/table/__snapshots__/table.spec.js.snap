@@ -1,0 +1,455 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`it tests the table component loads and renders the table 1`] = `
+<table
+  aria-label=""
+  aria-rowcount={18}
+  className="container"
+  data-testid="data-table"
+  role="table"
+>
+  <caption>
+    
+  </caption>
+  <thead>
+    <tr
+      className="header"
+    >
+      <th
+        className="hcell"
+        onClick={[Function]}
+      >
+        Ticker
+      </th>
+      <th
+        className="hcell"
+        onClick={[Function]}
+      >
+        Price
+      </th>
+      <th
+        className="hcell"
+        onClick={[Function]}
+      >
+        Asset Class
+      </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr
+      className="cell credit"
+      scope="row"
+    >
+      <td
+        className="cell"
+      >
+        ALPHA
+         
+      </td>
+      <td
+        className="cell positive"
+      >
+        3150.67
+         
+      </td>
+      <td
+        className="cell"
+      >
+        Credit
+         
+      </td>
+    </tr>
+    <tr
+      className="cell equities"
+      scope="row"
+    >
+      <td
+        className="cell"
+      >
+        BETA
+         
+      </td>
+      <td
+        className="cell positive"
+      >
+        3791.37
+         
+      </td>
+      <td
+        className="cell"
+      >
+        Equities
+         
+      </td>
+    </tr>
+    <tr
+      className="cell equities"
+      scope="row"
+    >
+      <td
+        className="cell"
+      >
+        GAMMA
+         
+      </td>
+      <td
+        className="cell positive"
+      >
+        2299.1
+         
+      </td>
+      <td
+        className="cell"
+      >
+        Equities
+         
+      </td>
+    </tr>
+    <tr
+      className="cell equities"
+      scope="row"
+    >
+      <td
+        className="cell"
+      >
+        DELTA
+         
+      </td>
+      <td
+        className="cell positive"
+      >
+        3132.66
+         
+      </td>
+      <td
+        className="cell"
+      >
+        Equities
+         
+      </td>
+    </tr>
+    <tr
+      className="cell credit"
+      scope="row"
+    >
+      <td
+        className="cell"
+      >
+        EPSILON
+         
+      </td>
+      <td
+        className="cell positive"
+      >
+        1168.46
+         
+      </td>
+      <td
+        className="cell"
+      >
+        Credit
+         
+      </td>
+    </tr>
+    <tr
+      className="cell credit"
+      scope="row"
+    >
+      <td
+        className="cell"
+      >
+        ZETA
+         
+      </td>
+      <td
+        className="cell positive"
+      >
+        2716.78
+         
+      </td>
+      <td
+        className="cell"
+      >
+        Credit
+         
+      </td>
+    </tr>
+    <tr
+      className="cell macro"
+      scope="row"
+    >
+      <td
+        className="cell"
+      >
+        ETA
+         
+      </td>
+      <td
+        className="cell negative"
+      >
+        -3089.2
+         
+      </td>
+      <td
+        className="cell"
+      >
+        Macro
+         
+      </td>
+    </tr>
+    <tr
+      className="cell macro"
+      scope="row"
+    >
+      <td
+        className="cell"
+      >
+        THETA
+         
+      </td>
+      <td
+        className="cell positive"
+      >
+        1075.44
+         
+      </td>
+      <td
+        className="cell"
+      >
+        Macro
+         
+      </td>
+    </tr>
+    <tr
+      className="cell macro"
+      scope="row"
+    >
+      <td
+        className="cell"
+      >
+        IOTA
+         
+      </td>
+      <td
+        className="cell positive"
+      >
+        1096.64
+         
+      </td>
+      <td
+        className="cell"
+      >
+        Macro
+         
+      </td>
+    </tr>
+    <tr
+      className="cell credit"
+      scope="row"
+    >
+      <td
+        className="cell"
+      >
+        KAPPA
+         
+      </td>
+      <td
+        className="cell positive"
+      >
+        2321.17
+         
+      </td>
+      <td
+        className="cell"
+      >
+        Credit
+         
+      </td>
+    </tr>
+    <tr
+      className="cell credit"
+      scope="row"
+    >
+      <td
+        className="cell"
+      >
+        LAMBDA
+         
+      </td>
+      <td
+        className="cell positive"
+      >
+        1472.2
+         
+      </td>
+      <td
+        className="cell"
+      >
+        Credit
+         
+      </td>
+    </tr>
+    <tr
+      className="cell macro"
+      scope="row"
+    >
+      <td
+        className="cell"
+      >
+        MU
+         
+      </td>
+      <td
+        className="cell positive"
+      >
+        2136.64
+         
+      </td>
+      <td
+        className="cell"
+      >
+        Macro
+         
+      </td>
+    </tr>
+    <tr
+      className="cell macro"
+      scope="row"
+    >
+      <td
+        className="cell"
+      >
+        NU
+         
+      </td>
+      <td
+        className="cell positive"
+      >
+        2744.89
+         
+      </td>
+      <td
+        className="cell"
+      >
+        Macro
+         
+      </td>
+    </tr>
+    <tr
+      className="cell equities"
+      scope="row"
+    >
+      <td
+        className="cell"
+      >
+        OMIKRON
+         
+      </td>
+      <td
+        className="cell positive"
+      >
+        2735.1
+         
+      </td>
+      <td
+        className="cell"
+      >
+        Equities
+         
+      </td>
+    </tr>
+    <tr
+      className="cell equities"
+      scope="row"
+    >
+      <td
+        className="cell"
+      >
+        SIGMA
+         
+      </td>
+      <td
+        className="cell positive"
+      >
+        1854.19
+         
+      </td>
+      <td
+        className="cell"
+      >
+        Equities
+         
+      </td>
+    </tr>
+    <tr
+      className="cell macro"
+      scope="row"
+    >
+      <td
+        className="cell"
+      >
+        TAU
+         
+      </td>
+      <td
+        className="cell positive"
+      >
+        2082.71
+         
+      </td>
+      <td
+        className="cell"
+      >
+        Macro
+         
+      </td>
+    </tr>
+    <tr
+      className="cell equities"
+      scope="row"
+    >
+      <td
+        className="cell"
+      >
+        OMEGA
+         
+      </td>
+      <td
+        className="cell positive"
+      >
+        2306.35
+         
+      </td>
+      <td
+        className="cell"
+      >
+        Equities
+         
+      </td>
+    </tr>
+    <tr
+      className="cell credit"
+      scope="row"
+    >
+      <td
+        className="cell"
+      >
+        PSI
+         
+      </td>
+      <td
+        className="cell positive"
+      >
+        2997.78
+         
+      </td>
+      <td
+        className="cell"
+      >
+        Credit
+         
+      </td>
+    </tr>
+  </tbody>
+</table>
+`;
