@@ -5,7 +5,7 @@ https://github.com/Elizabethw101/pricing-tables.git
 
 
 once you have cloned the project run to download the node modules
-npm init
+npm install
 
 to start the application
 npm start
